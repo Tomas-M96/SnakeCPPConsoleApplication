@@ -1,0 +1,9 @@
+﻿  GameEngine.cpp
+D:\Documents\Development\GameDev\CPP\SnakeCPP\SnakeCPPConsoleApplication\SnakeCPP\GameEngine.cpp(52,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+D:\Documents\Development\GameDev\CPP\SnakeCPP\SnakeCPPConsoleApplication\SnakeCPP\main.cpp(26,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  PlayerScore.cpp
+  Generating Code...
+D:\Documents\Development\GameDev\CPP\SnakeCPP\SnakeCPPConsoleApplication\SnakeCPP\main.cpp(162): warning C4715: 'regexScores': not all control paths return a value
+D:\Documents\Development\GameDev\CPP\SnakeCPP\SnakeCPPConsoleApplication\SnakeCPP\FileReader.h(51): warning C4715: 'FileReader::readFile': not all control paths return a value
+  SnakeCPP.vcxproj -> D:\Documents\Development\GameDev\CPP\SnakeCPP\SnakeCPPConsoleApplication\Debug\SnakeCPP.exe

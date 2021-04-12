@@ -1,0 +1,24 @@
+Score: <3> Name: <Tomas>
+
+Score: <0> Name: <John>
+
+Score: <1> Name: <Bob>
+
+Score: <1> Name: <Tomas>
+
+Score: <6> Name: <Johna>
+
+Score: <2> Name: <AAA>
+
+Score: <1> Name: <aaa>
+
+Score: <1> Name: <a>
+
+Score: <0> Name: <a>
+
+Score: <3> Name: <l>
+
+Score: <2> Name: <Tomas>
+
+Score: <5> Name: <Tomas>
+
