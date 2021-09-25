@@ -18,6 +18,18 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="header\FileReader.h" />
+    <ClInclude Include="header\GameEngine.h" />
+    <ClInclude Include="header\main.h" />
+    <ClInclude Include="header\PlayerScore.h" />
+    <ClInclude Include="header\Vector2.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\GameEngine.cpp" />
+    <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\PlayerScore.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -138,18 +150,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="GameEngine.cpp" />
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="PlayerScore.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="FileReader.h" />
-    <ClInclude Include="GameEngine.h" />
-    <ClInclude Include="main.h" />
-    <ClInclude Include="PlayerScore.h" />
-    <ClInclude Include="Vector2.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

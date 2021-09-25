@@ -22,3 +22,7 @@ Score: <2> Name: <Tomas>
 
 Score: <5> Name: <Tomas>
 
+Score: <2> Name: <Tomas>
+
+Score: <1> Name: <asd>
+
